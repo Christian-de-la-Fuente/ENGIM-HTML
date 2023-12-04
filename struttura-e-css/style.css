@@ -1,0 +1,39 @@
+:root {
+    --bg-nav: rgb(45, 45, 182);
+}
+
+/* selettori tag */
+nav {
+    background-color: var(--bg-nav);
+}
+
+main {
+    background-color: orange;
+}
+
+aside {
+    background-color: blueviolet;
+}
+
+/* selettore classi */
+.primo {
+    background-color: chartreuse;
+    width: 200px;
+    height: 100px;
+}
+
+.secondo {
+    background-color: gold;
+    width: 200px;
+    height: 100px;
+}
+
+.terzo {
+    background-color: brown;
+    width: 200px;
+    height: 100px;
+}
+/* id univoco > classe specifica */
+div {
+    background-color: aquamarine;
+}
